@@ -3,6 +3,6 @@
   "description": "test",
   "version": "0.0.0",
   "dependencies": {
-    "cacache": "^16.0.0",
+    "cacache": "^16.0.0"
   }
 }
